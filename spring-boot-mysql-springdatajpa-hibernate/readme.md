@@ -4,7 +4,7 @@
 
 Include deployment to Cloud Foundry with Spring Cloud Config.
 
-
+https://github.com/oahcran/spring-cloud-samples-cook-config
 
 
 
