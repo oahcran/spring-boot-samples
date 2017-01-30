@@ -2,13 +2,13 @@
 
 ### Changes Log
 
-Include deployment to Cloud Foundry with Spring Cloud Config.
+This is a practice to modify existing netgloo samples to include deployment to Cloud Foundry with Spring Cloud Config.
 
 https://github.com/oahcran/spring-cloud-samples-cook-config
 
 
 
-### ---
+### --- Origin Post ---
 
 See here for more informations:
 http://blog.netgloo.com/2014/10/27/using-mysql-in-spring-boot-via-spring-data-jpa-and-hibernate/
