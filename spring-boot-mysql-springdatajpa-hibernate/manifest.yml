@@ -1,0 +1,13 @@
+---
+instances: 1
+memory: 1G
+path: target/spring-boot-mysql-springdatajpa-hibernate-0.0.1-SNAPSHOT.jar
+buildpack: java_buildpack_offline
+applications:
+  - name: boot-data
+    host: boot-data
+    services:
+      - config-server
+    env:
+      SPRING_PROFILES_ACTIVE: cf
+      TRUST_CERTS: api.system.home.oahcran.org
